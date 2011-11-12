@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the hot-topic feature.
+ */
+
+include_once('hot_topic.features.inc');
